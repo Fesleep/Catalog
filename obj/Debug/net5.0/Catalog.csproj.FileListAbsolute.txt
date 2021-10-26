@@ -112,3 +112,4 @@ C:/Users/Felipe/source/repos/Catalog/bin/Debug/net5.0/Microsoft.Extensions.Diagn
 /home/felipe/source/repos/Catalog/obj/Debug/net5.0/ref/Catalog.dll
 /home/felipe/source/repos/Catalog/obj/Debug/net5.0/Catalog.pdb
 /home/felipe/source/repos/Catalog/obj/Debug/net5.0/Catalog.genruntimeconfig.cache
+/home/felipe/source/repos/Catalog/obj/Debug/net5.0/Catalog.csproj.CopyComplete
